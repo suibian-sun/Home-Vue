@@ -1,32 +1,32 @@
 [
   {
-    "name": "博客",
-    "url": "https://blog.bsgun.cn",
-    "icon": "fa fa-blog"
+    "name": "公司",
+    "url": "https://www.520cti.shop",
+    "icon": "fa-solid fa-building"
   },
   {
-    "name": "雨云",
-    "url": "https://www.rainyun.com/Lin_",
-    "icon": "fa fa-cloud "
+    "name": "商铺",
+    "url": "https://store.520cti.shop",
+    "icon": "fa-solid fa-shop "
   },
   {
     "name": "图床",
-    "url": "https://dev.ruom.top",
+    "url": "https://t.alcy.cc",
     "icon": "fa fa-image"
   },
   {
-    "name": "封面",
-    "url": "https://cover.ruom.top",
+    "name": "头像",
+    "url": "https://q1.qlogo.cn/g?b=qq&nk=3214837362&s=5",
     "icon": "fa fa-panorama"
   },
   {
     "name": "监测",
-    "url": "https://status.bsgun.cn",
+    "url": "https://api.520cti.shop",
     "icon": "fa fa-chart-line"
   },
   {
-    "name": "图标",
-    "url": "https://icon.ruom.top/",
+    "name": "QQ群",
+    "url": "https://qun.qq.com/universal-share/share?ac=1&authKey=MuZvg9N%2Fjg7w0%2BOV3V7JU5FXrkRmkHaqk6%2FGIIXNGXpmpog817TgpQMUwFi3qyQq&busi_data=eyJncm91cENvZGUiOiIxMDY1ODA1OTU0IiwidG9rZW4iOiJLNk1XYmg4di9xTEE2YW1kcWtMRlkzV3NUU3Z1RGhjRkc4UnByR2V1aFN6NDV1UkZIZ1pWN2xGd2J5OGJ3Q3RuIiwidWluIjoiMzIxNDgzNzM2MiJ9&data=6m4Xh23EM2iFpU1YTnXmKrzZy-N9u1hKkn4h8Ui9lfxbmrLjMqywDgjNE6pKcV143TqeeJzElY8zLGD0eLCzDg&svctype=4&tempid=h5_group_info",
     "icon": "fa fa-icons"
   }
 ]
