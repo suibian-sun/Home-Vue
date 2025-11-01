@@ -2,25 +2,25 @@
   {
     "type": "Email",
     "icon": "fas fa-envelope",
-    "url": "mailto:i@ruom.top",
+    "url": "admin@520cti.shop",
     "hoverColor": "#e78b0a"
   },
   {
     "type": "Github",
     "icon": "fab fa-github",
-    "url": "https://github.com/JLinmr",
+    "url": "https://github.com/suibian-sun",
     "hoverColor": "#6500fc"
   },
   {
     "type": "支付宝",
     "icon": "fab fa-alipay",
-    "qrCode": "https://lib.bsgun.cn/Hexo-static/img/zfbzf.avif",
+    "qrCode": "https://pay.yogix.cn/paypage/?merchant=dfe4LiyfdRm6BbuOQTDOfMYlYRp4zF0PE2oyJa2iBFUq",
     "hoverColor": "#007aff"
   },
   {
     "type": "微信",
     "icon": "fab fa-weixin",
-    "qrCode": "https://lib.bsgun.cn/Hexo-static/img/wxzf.avif",
+    "qrCode": "https://pay.yogix.cn/paypage/?merchant=dfe4LiyfdRm6BbuOQTDOfMYlYRp4zF0PE2oyJa2iBFUq",
     "hoverColor": "#247700"
   }
 ]
